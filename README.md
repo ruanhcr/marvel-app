@@ -9,5 +9,5 @@ para exibir os comics em que o personagem está contido.
 <br>A exibição das imagens é feita através da biblioteca [Glide](https://github.com/bumptech/glide).
 <br>É possivel ainda fazer a busca pelo personagem na aba de Pesquisa.
 
-# Demonstração
+# Screenshot
 <br>![exemplo](https://media3.giphy.com/media/Js3taw30ZXrufAOhbx/giphy.gif?cid=790b761170bcfae8c899d548620f1e09f111875b1a48ba13&rid=giphy.gif&ct=g)
