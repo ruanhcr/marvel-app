@@ -1,8 +1,9 @@
 # Marvel App
-App que exibe personagens através da Marvel API.
-<br>Para o funcionamento da API primeiramente é necessário se inscrever no portal para obter acesso as chaves individuais: "Your public key" e "Your private key".
-<br>O app utiliza a biblioteca  para fazer requisições para a API, onde são feitas requisições [GET CHARACTERS](https://gateway.marvel.com/v1/public/characters/) para exibir os personagens e [GET COMICS](https://gateway.marvel.com/v1/public/characters/{characterId}/comics/) 
+App que exibe personagens através da Marvel API, onde são feitas requisições do tipo [GET CHARACTERS](https://gateway.marvel.com/v1/public/characters/) para exibir os personagens e [GET COMICS](https://gateway.marvel.com/v1/public/characters/{characterId}/comics/) 
 para exibir os comics em que o personagem está contido.
+
+# Config
+Para o funcionamento da requisições no projeto é necessário se inscrever no site [Marvel API](https://developer.marvel.com) para obter acesso as chaves: "Your public key" e "Your private key". E substituí-las na classe Constants dentro do package "util".
 
 # Development Roadmap
 - [x] [Kotlin](https://kotlinlang.org)
