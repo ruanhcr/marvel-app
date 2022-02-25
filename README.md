@@ -1,5 +1,5 @@
 # Marvel App
-App que exibe personagens através da Marvel API, onde são feitas requisições do tipo [GET CHARACTERS](https://gateway.marvel.com/v1/public/characters/) para exibir os personagens e [GET COMICS](https://gateway.marvel.com/v1/public/characters/{characterId}/comics/) 
+App que exibe personagens através da Marvel API, onde são feitas requisições do tipo [GET CHARACTERS](https://gateway.marvel.com/v1/public/characters/) para exibir os personagens <br>e [GET COMICS](https://gateway.marvel.com/v1/public/characters/{characterId}/comics/) 
 para exibir os comics em que o personagem está contido.
 
 # Config
