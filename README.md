@@ -21,10 +21,10 @@ para exibir os comics em que o personagem está contido.
 - [x] [Glide](https://github.com/bumptech/glide)
 
 # Features
-- [x] Character List
-- [x] Character Search
+- [x] Home
+- [x] Search
 - [x] Character Detail/Comics List
-- [x] Favorites List
+- [x] Favorites
 
 
 # Screenshot
