@@ -7,7 +7,7 @@ para exibir os comics em que o personagem está contido.
 # Development Roadmap
 - [x] [Kotlin](https://kotlinlang.org)
 - [x] [Marvel API](https://developer.marvel.com)
-- [x] [MVVM](https://developer.android.com/jetpack/guide?gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF6MdF2s4IswETMBPtxSUHxGehXBfDoGpp4mJaGe4w5tI2VNcTSr5O8aAgDOEALw_wcB&gclsrc=aw.ds)
+- [x] MVVM
 - [x] [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?authuser=1)
 - [x] [Retrofit](https://square.github.io/retrofit/)
 - [x] [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started)
