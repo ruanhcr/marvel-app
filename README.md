@@ -3,7 +3,7 @@ App que exibe personagens através da Marvel API, onde são feitas requisições
 para exibir os comics em que o personagem está contido.
 
 # Config
-Para o funcionamento da requisições no projeto é necessário realizar o cadastro no site [Marvel API](https://developer.marvel.com) para obter acesso as chaves: "Your public key" e "Your private key", e substituí-las na classe Constants, _(PUBLIC_KEY)_ e _(PRIVATE_KEY)_.
+Para o funcionamento das requisições no projeto é necessário realizar o cadastro no site [Marvel API](https://developer.marvel.com) para obter acesso as chaves: "Your public key" e "Your private key", e substituí-las na classe Constants, _(PUBLIC_KEY)_ e _(PRIVATE_KEY)_.
 
 # Development Roadmap
 - [x] [Kotlin](https://kotlinlang.org)
