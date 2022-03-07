@@ -27,6 +27,5 @@ Para o funcionamento das requisições no projeto é necessário realizar o cada
 - [x] Character Detail/Comics List
 - [x] Favorites
 
-
 # Screenshot
 <br>![exemplo](https://media3.giphy.com/media/Js3taw30ZXrufAOhbx/giphy.gif?cid=790b761170bcfae8c899d548620f1e09f111875b1a48ba13&rid=giphy.gif&ct=g)
