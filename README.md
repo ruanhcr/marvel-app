@@ -31,7 +31,7 @@ Para o funcionamento das requisições no projeto é necessário realizar o cada
 <br>![exemplo](https://media3.giphy.com/media/Js3taw30ZXrufAOhbx/giphy.gif?cid=790b761170bcfae8c899d548620f1e09f111875b1a48ba13&rid=giphy.gif&ct=g)
 
 # TO DO
-<br>Este projeto está em andamento, sendo necessário adicionar:
+Este projeto está em andamento, sendo necessário adicionar:
 - [x] Testes unitários
 - [x] Testes de Instrumentação
 - [x] CI/CD
